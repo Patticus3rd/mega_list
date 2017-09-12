@@ -1,0 +1,2 @@
+class MasterList < ApplicationRecord
+end
