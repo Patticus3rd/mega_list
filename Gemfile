@@ -14,7 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 # User Authentication
 gem 'devise'
 
-gem 'semantic-ui'
+gem 'semantic-ui-sass'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
